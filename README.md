@@ -9,4 +9,4 @@ The purpose of our project is to create a video sharing platform. Users are able
 The three main components of the video sharing platform are a PostgreSQL database, HDFS server and a java application. The SQL database stores account information as well as metadata for the videos. The HDFS server stores the raw video data to be streamed to the user. We connect to the PostgreSQL database using a JDBC driver and WebHDFS to connect to the HDFS server with a java program serving as the interface for the user. 
 
 ## ER diagram for SQL server
-![alt text](https://github.com/mapleCows/Video-Based-Social-Media-Database-and-server/blob/main/ER-Diagram.jpg.?raw=true)
+![Screenshot](ER-Diagram.jpg)
