@@ -1,4 +1,4 @@
-#Video-Based-Social-Media-Database-and-server
+# Video-Based-Social-Media-Database-and-server
 ## project in CS 179G
 By Sargis Abrahamyan and Luis Sanchez
 
