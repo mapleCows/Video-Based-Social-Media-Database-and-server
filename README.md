@@ -10,3 +10,6 @@ The three main components of the video sharing platform are a PostgreSQL databas
 
 ## ER diagram for SQL server
 ![Screenshot](ER-Diagram.jpg)
+
+# Report
+[Google-Doc](https://docs.google.com/document/d/1VihnR3Bs-0UJbPdg1NhPtD6-eLWh91nGb-5ttNXZNhE/edit?usp=sharing)
